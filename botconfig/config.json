@@ -1,12 +1,12 @@
 {
-    "token": "GET from: https://discord.com/developers/applications",
-    "prefix": "//",
+    "token": "MTIxNTAwMjkxODYyNTg3ODA0Ng.G8CD2g.xRUvjy_a8XJUmg3WoDhZDMRb9W5zLES1TYbiho",
+    "prefix": "+",
     "ownerIDS": [
-        "442355791412854784"
+        "871718994443374622"
     ],
     "fnbr": "GET from: https://fnbr.co",
     "fortnitetracker": "GET from: https://fortnitetracker.com",
-    "memer_api": "GET from: https://discord.gg/Mc2FudJkgP",
+    "memer_api": "fTJLBpkPvyZ",
     "status": {
         "text": "{prefix}help | on {guildcount} Servers, with {membercount} Members | Played: {songsplayed} Songs",
         "text2": "By: discord.gg/dcdev",
